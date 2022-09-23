@@ -11,7 +11,7 @@ Summary: Software driving the automated exploration of chemical reaction network
 
 Development: https://github.com/qcscine/chemoton
 
-Documentation: https://scine.ethz.ch/static/download/documentation/chemoton/v2.1.0/py/
+Documentation: https://scine.ethz.ch/static/download/documentation/chemoton/v2.2.0/py/
 
 Current build status
 ====================
