@@ -1,5 +1,5 @@
 {% set name = "scine-chemoton" %}
-{% set version = "2.2.0" %}
+{% set version = "4.0.0" %}
 
 package:
   name: {{ name }}
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://github.com/qcscine/chemoton/archive/refs/tags/{{ version }}.tar.gz
-    sha256: e8f178d1b1f0f6e656949ed5200394f05a7f8ac9f78a14ea531c66d3f1f02527
+    sha256: f8a5e1ae543e2144ddda3bd05d71ccc4b066d85a7a7a6509efcc0e423bdfddc2
 
 build:
   number: 0
