@@ -1,17 +1,17 @@
-About scine-chemoton
-====================
+About scine-chemoton-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scine-chemoton-feedstock/blob/main/LICENSE.txt)
 
 Home: https://scine.ethz.ch/download/chemoton
 
 Package license: BSD-3-Clause
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scine-chemoton-feedstock/blob/main/LICENSE.txt)
-
 Summary: Software driving the automated exploration of chemical reaction networks
 
 Development: https://github.com/qcscine/chemoton
 
-Documentation: https://scine.ethz.ch/static/download/documentation/chemoton/v2.2.0/py/
+Documentation: https://scine.ethz.ch/static/download/documentation/chemoton/v3.0.0/py/
 
 Current build status
 ====================
